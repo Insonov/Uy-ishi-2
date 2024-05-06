@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    list-style: none;
+
+}
+
+.container {
+    width: 1108px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.main-item {
+    width: 600px;
+    font-weight: 700;
+    color: #34313d;
+    font-size: 80px;
+    line-height: 90px;
+    letter-spacing: -2px;
+}
